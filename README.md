@@ -1,7 +1,7 @@
 Niklaus Paul Wetter
 
 University of Arizona
-  - BS Computer Science (In Progress)
-  - BS Statistics and Data Science (In Progress)
+  - BS Computer Science, 2023
+  - BS Statistics and Data Science, 2023
 
-Contact: niklauswetter@email.arizona.edu, Subjectline: GITHUB INQUIRY
+Contact: niklauswetter@arizona.edu, Subjectline: GITHUB INQUIRY
